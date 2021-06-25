@@ -1,2 +1,2 @@
-# trainingrepo
+# training
 training repository
